@@ -2,7 +2,7 @@ package com.polymorphism;
 
 public class MethodOverloadingEx1 {
 	void m1() {
-		System.out.println("0-arg Method");
+		System.out.println("0-arg Method ");
 	}
 	void m1(int a) {
 		System.out.println("1-arg int Method");
