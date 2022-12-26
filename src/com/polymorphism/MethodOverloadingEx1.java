@@ -1,4 +1,4 @@
-package polymorphism;
+package com.polymorphism;
 
 public class MethodOverloadingEx1 {
 	void m1() {

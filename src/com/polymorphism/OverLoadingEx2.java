@@ -1,4 +1,4 @@
-package polymorphism;
+package com.polymorphism;
 
 public class OverLoadingEx2 {
 	OverLoadingEx2(int a){
