@@ -11,7 +11,7 @@ public class MethodOverloadingEx1 {
 		System.out.println("2-arg int int Method");
 	}
 	void m1(char c) {
-		System.out.println("1-arg char Method");
+		System.out.println("1-arg char Method ");
 	}
 
 	
