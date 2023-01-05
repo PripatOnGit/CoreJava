@@ -9,8 +9,12 @@ abstract class AbstractEx12 {
 
 
 public class AbstractEx1 extends AbstractEx12 {
-	void m2() {System.out.println("Inside Child class-- Abstract method m2() implemented in child class!!!");} 
-	void m1() {System.out.println("child class!!!");}
+	void m2() {
+		System.out.println("Inside Child class-- Abstract method m2() implemented in child class!!!");
+		} 
+	void m1() {
+		System.out.println("child class!!!");
+		}
 	public static void main(String[] args) {
 	 
 	AbstractEx1 aex1 = new AbstractEx1(); //child class object
