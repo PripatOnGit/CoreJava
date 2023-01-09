@@ -1,4 +1,4 @@
-package iopackage;
+package com.iopackage;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
