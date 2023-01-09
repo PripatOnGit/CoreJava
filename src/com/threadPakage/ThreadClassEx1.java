@@ -1,4 +1,4 @@
-package threadPakage;
+package com.threadPakage;
 import java .lang.Thread;
 
 //Single child thread
